@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614923212019",
+    "project_id": "alertfiredemo",
+    "storage_bucket": "alertfiredemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614923212019:android:40edc8b11fe1c779ae9386",
+        "android_client_info": {
+          "package_name": "com.aiartqr.aiartqrcode.qraiart.alertfiredemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-schZDNMY5uvMjsP2zViQlmNTADr-Buw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
